@@ -30,7 +30,7 @@ client = InferenceClient(
 game_links = [
     "https://richardhenyash.github.io/balloon-pop-maths/",
     "https://simplecoder12.github.io/game-1/",
-    "https://jisll.github.io/MathGame/"
+    "https://jisll.github.io/MathGame/",
 ]
 
 def show_random_game_link():
