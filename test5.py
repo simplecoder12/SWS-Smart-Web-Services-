@@ -17,7 +17,7 @@ if not API_TOKEN:
     st.stop()
 
 # Set the Hugging Face Inference API URL for the image generation model
-API_oRL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
+API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
 
 # Initialize the InferenceClient with the Phi-3 model
@@ -64,7 +64,7 @@ st.set_page_config(page_title="SWS CHATBOT", page_icon="💬")
 st.markdown(
    """ 
        <h1>
-        <span style='font-weight: bold; font-size: 50px;'>💬SWS CHAT</span>
+        <span style='font-weight: bold; font-size: 50px;'>💬SWSSSSSS</span>
         </h1>
    """,
    unsafe_allow_html=True 
