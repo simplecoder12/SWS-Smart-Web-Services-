@@ -64,7 +64,7 @@ st.set_page_config(page_title="SWS CHATBOT", page_icon="💬")
 st.markdown(
    """ 
        <h1>
-        <span style='font-weight: bold; font-size: 50px;'>💬SWSSSSSS</span>
+        <span style='font-weight: bold; font-size: 50px;'>💬SWS CHAT</span>
         </h1>
    """,
    unsafe_allow_html=True 
