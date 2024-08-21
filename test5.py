@@ -30,6 +30,7 @@ client = InferenceClient(
 game_links = [
     "https://richardhenyash.github.io/balloon-pop-maths/",
     "https://simplecoder12.github.io/game-1/chhatisgarh_jump.html",
+    "https://simplecoder12.github.io/game-1/chhatisgarh_quiz.html",
     "https://jisll.github.io/MathGame/",
 ]
 
